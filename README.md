@@ -1,2 +1,4 @@
-# ind_proj
-Individual Projects
+## Individual Projects
+
+
+* created for storing individual projects
